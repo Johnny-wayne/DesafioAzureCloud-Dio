@@ -1,3 +1,5 @@
+Desafio resolvido!
+
 # DIO - Trilha .NET - Nuvem com Microsoft Azure
 www.dio.me
 
